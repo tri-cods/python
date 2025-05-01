@@ -10,8 +10,10 @@ Python is a powerful and versatile programming language used widely for data ana
 
 [Top 500 'Greatest' Novels (1021-2015)](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html)
 
-We'll be exploring a dataset compiled by Anna Preus and Aashna Sheth featuring data about the 500 novels most widely held by OCLC libraries, compiled and curated as part of the [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/) project. We encourage you to read their [data essay](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html) explaining the methodology, decisions, bias, and highlights.
+We'll be exploring a dataset focused on the 500 novels most widely held by OCLC libraries, compiled and curated by Anna Preus and Aashna Sheth as part of the [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/) project. It features titles, bibliographic metadata, author demographic information, as well as OCLC holdings, GoodReads data, and Wikipedia and Project Gutenberg urls. We encourage you to read their [data essay](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html) explaining the methodology, decisions, bias, and highlights.
 
 ## Outline
 
 [Jupyter Notebook: Introduction to Python](introduction_to_python.ipynb)
+
+## Additional resources
