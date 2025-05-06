@@ -14,7 +14,12 @@ We'll be exploring a dataset focused on the 500 novels most widely held by OCLC 
 
 [Jupyter Notebook: Introduction to Python](introduction_to_python.ipynb)
 
+We're going to be using [Google Colab](https://colab.research.google.com/) to run Python during this workshop. To open the workshop files in Colab, navigate to [https://colab.research.google.com/](https://colab.research.google.com/) and select "GitHub" on the "Open Notebook" menu. You will be prompted to paste in a link: use the url for this repository, `https://github.com/tri-cods/python` and click the search button. Select the first notebook that appears: `introduction_to_python.ipynb` to open the exercise files.
+
+If you get stuck and want a hint, use this link to view a copy of the notebook with completed exercises: [Introduction to Python jupyter notebook with answers](introduction_to_python_complete.ipynb)
+
 ## Additional resources
+
 - Read about the Python design principles known as the ["Zen of Python"](https://en.wikipedia.org/wiki/Zen_of_Python)
 - [W3 Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
 - Melanie Walsh, *[Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)*
